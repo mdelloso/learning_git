@@ -1,0 +1,69 @@
+# Project Title
+
+One Paragraph of project description goes here
+
+## Getting Started
+
+To get this project running on your computer follow the steps below. See [Deployment](#deployment) section for notes on how to deploy the project.
+
+### Prerequisites
+
+What things user needs to install the software and how to install it.
+
+```
+Give examples
+```
+
+### Installing
+
+A step by step series of examples that tell you how to get the development environment running.
+
+1. Step 1
+2. Step 2
+    1. Step 2.1
+    2. Step 2.2
+3. Step 3
+
+End with an example of getting some data out of the system or using it for a little demo.
+
+## Running the tests
+
+Explain how to run the automated tests for the system.
+
+### Break down into end to end tests
+
+Explain what these tests test and why
+
+```
+Give an example
+```
+
+### Coding style tests
+
+Explain what these tests test and why
+
+```
+Give an example
+```
+
+## Deployment
+
+Add additional notes about how to deploy the project, e.g., how to set up the debugger for a particular microcontroller. 
+
+## Built With
+
+* [MCUXpresso IDE](https://mcuxpresso.nxp.com/en/welcome) - Integrated Development Environment
+* [MCUXpresso SDK](https://mcuxpresso.nxp.com/en/welcome) - Software Development Kit
+* [J-Link EDU](https://www.segger.com/products/debug-probes/j-link/models/j-link-edu/) - Debug Probe
+
+## Versioning
+
+We use [GitHub](https://github.com/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+
+## Authors
+
+***Matías Dell'Oso*** - [mdelloso](https://github.com/mdelloso)
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
